@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=7.3",
+        "php": ">=8.0",
         "illuminate/auth": "~8",
         "illuminate/config": "~8",
         "illuminate/database": "~8",
